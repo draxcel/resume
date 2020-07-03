@@ -38,7 +38,7 @@ www.hallym.ac.kr
 ***
 
 | 자동차 | 크기 | 제조사 |
-| --- | --- | --- |
-| 산타페 | SUV | <tspan fill='blue'>현대자동차</tspan> |
-| 쏘렌토 | SUV |  <tspan fill='#FF0000'>기아자동차</tspan> |
-| 익스플로러 | SUV | <tspan fill='blue'>포드자동차</tspan> |
+| :---: | :---: | :---: |
+| 산타페 | SUV | 현대자동차 |
+| 쏘렌토 | SUV |  기아자동차 |
+| 익스플로러 | SUV | 포드자동차 |
