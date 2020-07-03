@@ -47,4 +47,4 @@ www.hallym.ac.kr
 
 ![왈라비](https://raw.githubusercontent.com/draxcel/resume/master/4066645_330.jpg "왈라비 입니다.")
 
-<img src=https://raw.githubusercontent.com/draxcel/resume/master/4066645_330.jpg width = 50 heignt = 50>
+<img src=https://raw.githubusercontent.com/draxcel/resume/master/4066645_330.jpg width = 250 heignt = 250>
