@@ -23,8 +23,8 @@
 www.hallym.ac.kr  
 [한림대학교](https://www.hallym.ac.kr/)  
 <a href=https://www.hallym.ac.kr/>한림대학교</a>  
-[hallym]:https://www.hallym.ac.kr/
-[한림대학교][hallym]
+[hallym]:https://www.hallym.ac.kr/  
+[한림대학교][hallym]  
 
 ***
 
