@@ -42,3 +42,7 @@ www.hallym.ac.kr
 | 산타페 | SUV | <span style="color:blue">현대자동차</span> |
 | 쏘렌토 | SUV |  <span style="color:red">기아자동차</span> |
 | 익스플로러 | SUV | <span style="color:blue">포드자동차</span> |
+
+***
+
+![왈라비](resume/4066645_330.jpg)
